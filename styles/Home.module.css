@@ -1,4 +1,4 @@
-.container {
+/* .container {
   padding: 0 2rem;
 }
 
@@ -127,3 +127,24 @@
     filter: invert(1);
   }
 }
+ */
+.title {
+  text-align: center;
+  font-size: 60px;
+ }
+ .title a {
+  color: #09f;
+  text-decoration: none;
+ }
+ .another_title {
+  color: #333;
+  text-align: center;
+ }
+ .nav {
+  font-size: 30px;
+  text-align: center;
+ }
+ .nav a {
+  color:#09f;
+  text-decoration: none;
+ }
